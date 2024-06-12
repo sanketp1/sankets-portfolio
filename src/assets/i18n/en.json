@@ -8,24 +8,21 @@
     "Header.cvName": "CV_Jose_Hernandez_Ingles.pdf",
 
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>8 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I focus on writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and <span class='underline'>Laravel</span>, applying good practices and development standards.",
+    "Banner.Description": "I have <span class='underline'>1 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I focus on writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and <span class='underline'>Laravel</span>, applying good practices and development standards.",
     "Banner.ActionBtn": "Get in touch",
 
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In <span class='underline'>8 years of experience</span> I've covered many roles: <span class='underline'>System Analyst</span>, <span class='underline'>backend developer</span>, <span class='underline'>frontend developer</span>, and <span class='underline'>technical leader</span>. I love contributing my knowledge to create new things that help solve problems.",
-        "My capabilities also include implementing improvements in systems, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
-        "I also program things for my personal use, whether as a hobby or for utility.",
-        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+
     ],
 
 
     "Experience.Title": "Experience",
     "Experience.Jobs": [
-        
+
         {
-            "Tab": "Global",
-            "Title": "Fullstack developer",
+            "Tab": "Cognizant",
+            "Title": "Fullstack Engineer",
             "Date": "May 2023",
             "Description": [
                 "Technical decision leader",
@@ -38,8 +35,8 @@
             ]
       },
       {
-            "Tab": "Projex",
-            "Title": "Fullstack developer",
+            "Tab": "Alancesec",
+            "Title": "Freelancer",
             "Date": "December 2019 - Present",
             "Description": [
               "Creation and maintenance of a monitoring platform with graphics in WordPress.",
@@ -48,54 +45,6 @@
               "Creation and maintenance of a second Monitoring Platform Done in Angular, Angular Material, Laravel, Mysql, RxJS, Sass with graphics (configurable), alarm system, and user management and configuration of general parameters.",
               "Planning meetings in reports."
             ]
-        },
-        {
-            "Tab": "Freelancer",
-            "Title": "Independent",
-            "Date": "May 2016 - Present",
-            "Description": [
-              "Implementing continuous improvements, working on frontend and backend.",
-              "Creating platforms with Angular, Laravel, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-              "Automation of processes with data structures.",
-              "Design layout with SASS, Bootstrap, Materialize, Bulma, etc."
-            ]
-        },
-        {
-            "Tab": "Moebius",
-            "Title": "FullStack developer",
-            "Date": "July 2017 - October 2018",
-            "Description": [
-              "Leading a team of 4 people in the development of a Tourism Data management platform made in Angular, Laravel, and MySQL.",
-              "Implementation CI / CD in Azure. Refactoring and optimizing application load times.",
-              "Coding of API requests with RxJS.",
-              "Creation of modules with complex reactive forms",
-              "Writing weekly reports about goals and plans."
-            ]
-        },
-        {
-            "Tab": "TechLatam",
-            "Title": "Frontend developer",
-            "Date": "February 2016 - May 2017",
-            "Description": [
-              "Creation of WordPress templates with ACF, functional programming in Javascript / jQuery, styles in SASS",
-              "integration of design improvements, and template loading times.",
-              "Effective communication with the design team, working with Avocode / Figma."
-            ]
-        },
-        {
-            "Tab": "CANTV",
-            "Title": "System analyst",
-            "Date": "November 2015 - December 2016",
-            "Description": [
-              "Programming of new functionalities for an existing employee management platform made in Angular and ExpressJS.",
-              "Perform refactoring of old code. Ensuring compatibility of every dependency in every update, along with regular Angular update as well."
-            ]
-        },
-        {
-            "Tab": "IEP",
-            "Title": "English teacher",
-            "Date": "January 2015 - July 2015",
-            "Description": ["Teaching English at a basic level to an enrollment of more than 200 students."]
         }
     ],
 
@@ -113,7 +62,7 @@
         ],
         "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
         },
-        
+
         {
           "Title": "Emelteciot",
           "Description": "Monitoring application for data consultation, made with <span class='underline'>Angular</span> and <span class='underline'>Laravel</span>. It applies the <span class='underline'>chart.js</span> graphics library",
@@ -126,7 +75,7 @@
           ],
           "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
         },
-        
+
         {
           "Title": "Agrourbana",
           "Description": "Monitoring application built from scratch with auth module, <span class='underline'>configurable graphs</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has reactive form logic for configuring parameters.",
